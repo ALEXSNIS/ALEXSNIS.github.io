@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5272adc3.css",
+    "main.js": "/static/js/main.fbd7b0d3.js",
+    "static/media/logo.svg": "/static/media/logo.ba846744ed4d69319d4edcf1df7f69f8.svg",
+    "static/media/css.svg": "/static/media/css.5ab74d103d14f06aa5ba873d0a6bc9fc.svg",
+    "static/media/js.svg": "/static/media/js.efab9fc267a1e82b8f7b24f9ec6f7211.svg",
+    "static/media/html.svg": "/static/media/html.df58ae9eb7891dc85381cc9dec4d9d51.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.a6a35a603e6e25743f264efeb5c6a141.svg",
+    "index.html": "/index.html",
+    "static/media/elipse3.svg": "/static/media/elipse3.a9fe1773b178dc67c8da449c72e69f4d.svg",
+    "static/media/elipse2.svg": "/static/media/elipse2.925b53199114ba7e3afff64a26e99ccc.svg",
+    "static/media/elipse5.svg": "/static/media/elipse5.b89a07c6289628c7ae83cb6ecea71eb1.svg",
+    "static/media/elipse4.svg": "/static/media/elipse4.96cfbe644bfe38519a495dc2ec4f6490.svg",
+    "static/media/elipse1.svg": "/static/media/elipse1.4df9e46f35e3fb1ea7d77e5888202461.svg",
+    "static/media/points.svg": "/static/media/points.62e83f74eb08543bd7d1.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.b4b25b4446ccf370e2e0a8a58c0297e6.svg",
+    "main.5272adc3.css.map": "/static/css/main.5272adc3.css.map",
+    "main.fbd7b0d3.js.map": "/static/js/main.fbd7b0d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5272adc3.css",
+    "static/js/main.fbd7b0d3.js"
+  ]
+}
